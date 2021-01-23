@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_list_item_array">
+        <item>Blanc</item>
+        <item>Blau</item>
+        <item>Verd</item>
+        <item>Vermell</item>
+    </string-array>
+    <string-array name="spinner_pistas">
+        <item>Pista</item>
+        <item>Primera LLetra</item>
+        <item>LLetra Aleatoria</item>
+        <item>Lletra Final</item>
+    </string-array>
+
+</resources>

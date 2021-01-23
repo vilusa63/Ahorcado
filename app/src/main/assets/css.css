@@ -1,0 +1,27 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .image-fondo {
+    background-image: url("fondo.jpg");
+}
+
+.cuerpo{
+    margin-top: 100px;
+    margin-bottom:50px
+}
+
+.centrarTexto{
+    text-align: center;
+}
+
+.espacioArriba{
+    margin-top: 150px;
+}
+
+p{
+    margin:30px; 
+    text-justify: auto;
+}
